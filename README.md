@@ -42,8 +42,8 @@ Making a zombie survival game using C# and unity
 # 5. Technology Stack
 |  |  |
 |-----------------|-----------------|
-| C#    |<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2FC%2523&psig=AOvVaw2Te85emnC2-bcSu2dfKZoj&ust=1757259085514000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMip0K66xI8DFQAAAAAdAAAAABAK" alt="HTML5" width="100">| 
-| Unity    |   <img src="./game/image/unity_icon.png" alt="CSS3" width="100">|
+| C#    |<img src="./game/image/c#_icon.png" alt="c#" width="100">| 
+| Unity    |   <img src="./game/image/unity_icon.png" alt="unity" width="100">|
 
 <br/>
 <br/>
