@@ -43,7 +43,7 @@ Making a zombie survival game using C# and unity
 |  |  |
 |-----------------|-----------------|
 | C#    |<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2FC%2523&psig=AOvVaw2Te85emnC2-bcSu2dfKZoj&ust=1757259085514000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMip0K66xI8DFQAAAAAdAAAAABAK" alt="HTML5" width="100">| 
-| Unity    |   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40zkzkshsh%2F%25EC%259C%25A0%25EB%258B%2588%25ED%258B%25B0-3DUnity-3D-%25EC%258B%259C%25EC%259E%2591-%25EC%25A0%2584-%25ED%2595%2584%25EB%258F%2585-%25EB%25B2%2584%25EC%25A0%2584%25EC%259D%25B4-%25EC%2599%259C%25EC%259D%25B4%25EB%25A6%25AC-%25EB%25A7%258E%25EC%2595%2584&psig=AOvVaw3CGm0bBTiltZAtzupw90R5&ust=1757259102883000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDNzra6xI8DFQAAAAAdAAAAABAK" alt="CSS3" width="100">|
+| Unity    |   <img src="./game/image/unity_icon.png" alt="CSS3" width="100">|
 
 <br/>
 <br/>
